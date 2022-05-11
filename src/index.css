@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.datePicker {
+  padding: 20px 10px;
+  width: 96%;
+  border-radius: 5px;
+  border: 1px solid #c4c4c4;
+  font-size: 15px;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  color: #6c6c6c;
+}
